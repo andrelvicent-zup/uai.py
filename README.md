@@ -5,4 +5,4 @@
 ### :rocket: [Projeto back-end core - nodejs/ typescript](https://github.com/andrelvicent-zup/device-reader-core) 
 ### :rocket: [Projeto servidor local - nodejs/ typescript](https://github.com/andrelvicent-zup/device-reader) 
 ### :rocket: [Projeto arduino reader - nodejs](https://github.com/andrelvicent-zup/arduino-serial-reader) 
-## Caso queira conhecer o projeto, [clique aqui](https://docs.google.com/forms/d/e/1FAIpQLSfUGo8TagcyfmRdbWNL_YFgYgXnfqWSfaaCn--aW4Fs6lnhxA/viewform).
+## Caso queira fazer parte do projeto, [clique aqui](https://docs.google.com/forms/d/e/1FAIpQLSfUGo8TagcyfmRdbWNL_YFgYgXnfqWSfaaCn--aW4Fs6lnhxA/viewform).
