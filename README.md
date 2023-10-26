@@ -1,4 +1,4 @@
-# Repositório UAI.py :rocket:
+# Repositório UAI.py
 ## :satellite: [Acesse aqui o experimento em tempo real](https://device-reader-frontend-4a6e1c68cd2e.herokuapp.com/) :satellite: 
 # DOCUMENTAÇÕES :bulb: 
 ### :rocket: [Projeto front-end - reactjs/ typescript](https://github.com/andrelvicent-zup/device-reader-frontend)
